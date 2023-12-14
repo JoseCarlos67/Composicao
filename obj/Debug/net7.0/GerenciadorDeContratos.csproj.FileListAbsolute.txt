@@ -1,0 +1,15 @@
+/home/carlos/Dev/C#/Curso Nelio Alves/Enumeracao e Composicao/GerenciadorDeContratos/GerenciadorDeContratos/bin/Debug/net7.0/GerenciadorDeContratos
+/home/carlos/Dev/C#/Curso Nelio Alves/Enumeracao e Composicao/GerenciadorDeContratos/GerenciadorDeContratos/bin/Debug/net7.0/GerenciadorDeContratos.deps.json
+/home/carlos/Dev/C#/Curso Nelio Alves/Enumeracao e Composicao/GerenciadorDeContratos/GerenciadorDeContratos/bin/Debug/net7.0/GerenciadorDeContratos.runtimeconfig.json
+/home/carlos/Dev/C#/Curso Nelio Alves/Enumeracao e Composicao/GerenciadorDeContratos/GerenciadorDeContratos/bin/Debug/net7.0/GerenciadorDeContratos.dll
+/home/carlos/Dev/C#/Curso Nelio Alves/Enumeracao e Composicao/GerenciadorDeContratos/GerenciadorDeContratos/bin/Debug/net7.0/GerenciadorDeContratos.pdb
+/home/carlos/Dev/C#/Curso Nelio Alves/Enumeracao e Composicao/GerenciadorDeContratos/GerenciadorDeContratos/obj/Debug/net7.0/GerenciadorDeContratos.csproj.AssemblyReference.cache
+/home/carlos/Dev/C#/Curso Nelio Alves/Enumeracao e Composicao/GerenciadorDeContratos/GerenciadorDeContratos/obj/Debug/net7.0/GerenciadorDeContratos.GeneratedMSBuildEditorConfig.editorconfig
+/home/carlos/Dev/C#/Curso Nelio Alves/Enumeracao e Composicao/GerenciadorDeContratos/GerenciadorDeContratos/obj/Debug/net7.0/GerenciadorDeContratos.AssemblyInfoInputs.cache
+/home/carlos/Dev/C#/Curso Nelio Alves/Enumeracao e Composicao/GerenciadorDeContratos/GerenciadorDeContratos/obj/Debug/net7.0/GerenciadorDeContratos.AssemblyInfo.cs
+/home/carlos/Dev/C#/Curso Nelio Alves/Enumeracao e Composicao/GerenciadorDeContratos/GerenciadorDeContratos/obj/Debug/net7.0/GerenciadorDeContratos.csproj.CoreCompileInputs.cache
+/home/carlos/Dev/C#/Curso Nelio Alves/Enumeracao e Composicao/GerenciadorDeContratos/GerenciadorDeContratos/obj/Debug/net7.0/GerenciadorDeContratos.dll
+/home/carlos/Dev/C#/Curso Nelio Alves/Enumeracao e Composicao/GerenciadorDeContratos/GerenciadorDeContratos/obj/Debug/net7.0/refint/GerenciadorDeContratos.dll
+/home/carlos/Dev/C#/Curso Nelio Alves/Enumeracao e Composicao/GerenciadorDeContratos/GerenciadorDeContratos/obj/Debug/net7.0/GerenciadorDeContratos.pdb
+/home/carlos/Dev/C#/Curso Nelio Alves/Enumeracao e Composicao/GerenciadorDeContratos/GerenciadorDeContratos/obj/Debug/net7.0/GerenciadorDeContratos.genruntimeconfig.cache
+/home/carlos/Dev/C#/Curso Nelio Alves/Enumeracao e Composicao/GerenciadorDeContratos/GerenciadorDeContratos/obj/Debug/net7.0/ref/GerenciadorDeContratos.dll
